@@ -1,2 +1,4 @@
 # yii-personal-project
-# chnage readme firtt commit 
+ chnage readme firtt commit 
+kalimerees
+
